@@ -1,4 +1,18 @@
+
+
 # 📘 Git & GitHub with VS Code: A Beginner's Guide
+
+> 📌 **Author:** Dishanand Jayeprokash  
+> 🗓️ **Created:** 18 July 2025  
+> ✏️ **Last Modified:** 25 July 2025  
+> 📘 **Covers:** Installing Git, GitHub and VS Code • Create Repo locally or on GitHub • Git Commands • Tips and Resources
+
+---
+
+
+
+
+---
 
 Welcome to your one-stop guide to mastering **Git** and **GitHub** using **Visual Studio Code**! Whether you're just starting out or need a refresher, this guide will walk you through everything from installation to pushing your first commit 🚀.
 
