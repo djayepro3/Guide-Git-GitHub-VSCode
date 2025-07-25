@@ -199,11 +199,19 @@ Here’s a quick cheat sheet for some of the most common Git commands:
 
 ## ✍️ Changing Author Info
 
-Need to change the author info *just for one commit*? Use this:
+Need to change the author info *globally* or *just for one commit*?
 
-```bash
-git commit --amend --author="New Name <new.email@example.com>"
-```
+- **Globally:**  
+  First, follow step 3 of the section [Setting Up Git in VS Code](#-setting-up-git-in-vs-code) to set your global name and email. After setting these, you can use the following command to amend the author of your last commit if needed:
+  ```bash
+  git commit --amend --author="New Name <new.email@example.com>"
+  ```
+
+- **For a single commit:**  
+  To change the author info for just one commit, simply use:
+  ```bash
+  git commit --amend --author="New Name <new.email@example.com>"
+  ```
 
 👀 This will open your default text editor (usually VS Code).
 
