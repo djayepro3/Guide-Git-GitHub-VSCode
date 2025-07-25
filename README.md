@@ -263,12 +263,12 @@ Here are some helpful links to level up your Git game:
 You did it! 🎉
 By following this guide, you’ve:
 
-✅ Installed and configured Git
-✅ Used Git inside VS Code
-✅ Created and pushed a repository to GitHub
-✅ Learned the most important Git commands with confidence!
+✅ Installed and configured Git \
+✅ Used Git inside VS Code \
+✅ Created and pushed a repository to GitHub \
+✅ Learned the most important Git commands with confidence! 
 
-Now go build something amazing! 💻✨
+Now go build something amazing! 💻✨ \
 And don't forget to `git commit` your progress along the way 😉
 
 ---
