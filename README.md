@@ -4,7 +4,7 @@
 
 > 📌 **Author:** Dishanand Jayeprokash  
 > 🗓️ **Created:** 18 July 2025  
-> ✏️ **Last Modified:** 25 July 2025  
+> ✏️ **Last Modified:** 18 January 2026  
 > 📘 **Covers:** Installing Git, GitHub and VS Code • Create Repo locally or on GitHub • Git Commands • Tips and Resources
 
 ---
