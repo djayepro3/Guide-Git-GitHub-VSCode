@@ -260,7 +260,7 @@ Here are some helpful links to level up your Git game:
 
 ## 🙌 Final Words
 
-You did it! 🎉
+You did it, woohoo! 🎉
 By following this guide, you’ve:
 
 ✅ Installed and configured Git \
